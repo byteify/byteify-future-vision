@@ -1,6 +1,6 @@
 
 import React from 'react';
-import Navbar from '../components/layout/Navbar';
+import Navbar from '../components/layout/Navbar-v2';
 import Footer from '../components/layout/Footer';
 import Hero from '../components/sections/Hero';
 import Solutions from '../components/sections/Solutions';
