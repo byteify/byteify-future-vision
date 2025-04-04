@@ -65,7 +65,7 @@ const Navbar = () => {
                           : 'text-byteify-accent'
                       } font-bold border-b-2 border-byteify-accent`
                     : `${
-                        isScrolled ? 'text-gray-800' : 'text-white'
+                        isScrolled ? 'text-white' : 'text-white'
                       } hover:text-byteify-accent hover:border-b-2 hover:border-byteify-accent`
                 }`}
               >
